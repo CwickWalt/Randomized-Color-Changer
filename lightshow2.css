@@ -12,14 +12,19 @@ body {
 
 #container {
 	margin: 0 auto;
+<<<<<<< HEAD
 	width: 500px;
 	float: left;
+=======
+	max-width: 600px;
+>>>>>>> 7b670b3fc27239a54d548945fa9b502df7e02f27
 }
 
 h1 {
 	color: white;
 }
 
+<<<<<<< HEAD
 .color-projector {
 	background-color: #efe188;
 	color: #676767;
@@ -28,4 +33,10 @@ h1 {
 .color-projector > p #current-color {
 	color: white;
 	font-size: 50px;
+=======
+/* javascript toggle class */
+
+.purple {
+	background-color: purple;
+>>>>>>> 7b670b3fc27239a54d548945fa9b502df7e02f27
 }
